@@ -24,8 +24,9 @@ login_box.click()
 print ("Done") 
 input('Press anything to quit') 
 driver.quit() 
-print("Finished") 
+
 print("leela")
 print("Praveen")
-print("leela")
-print("Praveen")
+
+print("Gummersbach")
+print("Dieringhausen")
